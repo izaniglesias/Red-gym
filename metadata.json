@@ -1,0 +1,7 @@
+{
+  "name": "Red Gym - Unleash the Power",
+  "description": "A high-intensity, red-themed gym website featuring guided classes, expert trainers, interactive schedules, and a Gemini-powered AI coach.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
